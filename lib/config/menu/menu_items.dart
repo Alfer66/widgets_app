@@ -35,4 +35,18 @@ const appMenuItems = <MenuItem>[
     link: '/progress',
     icon: Icons.refresh_rounded
   ),
+
+  MenuItem(
+    title: 'Custom snackbar example',
+    subTitle: 'Ejemplo de snacbar personalizado',
+    link: '/snacbar_screen_custom',
+    icon: Icons.chat_bubble_sharp
+  ),
+
+  MenuItem(
+    title: 'Snackbar y diálogos',
+    subTitle: 'Indicadores en pantalla',
+    link: '/snackbar_screen',
+    icon: Icons.info_outline_rounded
+  ),
 ];
