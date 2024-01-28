@@ -46,14 +46,21 @@ const appMenuItems = <MenuItem>[
   MenuItem(
     title: 'Snackbar y diálogos',
     subTitle: 'Indicadores en pantalla',
-    link: '/snackbar_screen',
+    link: '/snackbar',
     icon: Icons.info_outline_rounded
   ),
 
   MenuItem(
     title: 'Animated container',
     subTitle: 'Stateful widget animado',
-    link: '/animated_screen',
+    link: '/animated',
     icon: Icons.check_box_outline_blank_rounded
+  ),
+
+  MenuItem(
+    title: 'UI Controls',
+    subTitle: 'Una serie de controles de flutter',
+    link: '/ui-controls',
+    icon: Icons.car_rental_outlined
   ),
 ];
