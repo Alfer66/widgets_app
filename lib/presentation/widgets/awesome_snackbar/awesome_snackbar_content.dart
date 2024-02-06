@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'dart:ui' as ui;
 
-import 'package:widgets_app/presentation/awesome_snackbar/content_type.dart';
-import 'package:widgets_app/presentation/awesome_snackbar/assets_path.dart';
+import 'package:widgets_app/presentation/widgets/awesome_snackbar/content_type.dart';
+import 'package:widgets_app/presentation/widgets/awesome_snackbar/assets_path.dart';
 
 
 class AwesomeSnackbarContent extends StatelessWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_app/presentation/awesome_snackbar/awesome_snackbar_content.dart';
-import 'package:widgets_app/presentation/awesome_snackbar/content_type.dart';
+import 'package:widgets_app/presentation/widgets/awesome_snackbar/awesome_snackbar_content.dart';
+import 'package:widgets_app/presentation/widgets/awesome_snackbar/content_type.dart';
 
 class AweseomSnackBarExample extends StatelessWidget {
 
